@@ -1,8 +1,10 @@
 # Pewlett-Hackard-Analysis
 ## Overview
+
 This analysis is mainly being conducted to find the list and count of employees who will soon be retiring and to find eligible employees who need to be mentored before the retires happen.
 
 ## Results
+
 - As per the analysis of the retiring employees we can see that a total of 72458 employees are due for retirement based on the birth date.
 - When we made a breakup of this list into department wise, we found out that out of the total retiring employees there were 25916 (36%) Senior Engineers and 24926 (34%) Senior staff retiring. While only 2 (0.0028%) Managers and 1090 (2%) Assistant engineers retiring. Image of breakup is below.
 
@@ -14,3 +16,12 @@ This analysis is mainly being conducted to find the list and count of employees 
 
 - As per the breakup there are no managers that are eligible for the mentorship. 
 
+## Summary
+
+- Its evident that as the silver tsunami begins to make an impact there will be a huge requirement of 72458 employees to be backfilled. Below is the requirement department wise.
+
+![](Resources/retirement_department.png)
+
+- After the analysis for retirement of employees’ department wise and the mentorship eligible employees department wise it looks like there are sufficient retiring employees to mentor the next generation of Pewlett Hackard employees. See the table below
+
+![](Resources/mentorship_department.png)
